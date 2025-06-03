@@ -50,6 +50,7 @@ Hver oppskrift du lager lagres her, med tittel, bilde-URL, ingredienser, fremgan
 
 #### chats
 Når du chatter med noen, lagres samtalen i “chats”, der meldinger har hvem som har sendt, innholdet og tidspunktet. Alt er koblet til brukerne via bruker-ID.
+![Image](https://github.com/user-attachments/assets/528fe1bb-a2eb-4839-9214-2ff01c98e9ba)
 
 ---
 
