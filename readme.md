@@ -60,3 +60,7 @@ Matbloggen gir deg en full oversikt over alle oppskrifter lastet opp av brukerne
 Brukeropplevelsen er laget for å være enkel, moderne og ryddig.
 
 ---
+
+### Endringer
+- Lagt til kategori: Kategori blir lagret, kan redigeres, vises overalt (personlig og online), og filtreres på.
+- Lagt til brukers- sikkerhetsregler i Firestore.
