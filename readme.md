@@ -61,6 +61,6 @@ Brukeropplevelsen er laget for å være enkel, moderne og ryddig.
 
 ---
 
-### Endringer (4/6/2025
+### Endringer (4/6/2025)
 - Lagt til kategori: Kategori blir lagret, kan redigeres, vises overalt (personlig og online), og filtreres på.
 - Lagt til brukers- sikkerhetsregler i Firestore.
